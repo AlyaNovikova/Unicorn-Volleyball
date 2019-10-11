@@ -1,8 +1,9 @@
 # Unicorn-Volleyball
 Just two unicorns play volleyball
+
 Инструкция по применению: 
-Из папки проекта:
-запустить питоновский http сервер
+
+Из папки проекта запустить питоновский http сервер:
 
 python 2.7: python -m SimpleHTTPServer 8000 
 
